@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="9.0">
-<file name="C:\projects\Java-1000\src\main\java\package-info.java">
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\CheckerAhdGetter.java">
 </file>
-<file name="C:\projects\Java-1000\src\main\java\src\Arraysfull.java">
+<file name="C:\projects\Java-1000\src\main\java\src\Resizearray.java">
 </file>
-<file name="C:\projects\Java-1000\src\main\java\src\Foreach.java">
-</file>
-<file name="C:\projects\Java-1000\src\main\java\src\Main.java">
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\CheckerAhdGetterTest.java">
 </file>
 </checkstyle>
