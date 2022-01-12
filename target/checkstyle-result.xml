@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.0">
+<file name="C:\projects\Java-1000\src\main\java\package-info.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\Arraysfull.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\Foreach.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\iterator\Progiterator.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\ConsumerAndThen.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\FunctionFormula.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\FunctionPow.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\FunctionSqrt.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\MRPredicate.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\MRSupplier.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\OptionalGetAndIsPresent.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\OptionalIfPresent.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\lambda\urma\MRFunction.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\AddAllElementsList.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\AddElement.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\AddIndexElement.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\Alphabet.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\ArProgression.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\CheckerAhdGetter.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\CreatorNewList.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\Factory.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\GeomProgression.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\IteratorForList.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\ListIteratorUsage.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\RemoveIf.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\RepositionElement.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\SplitterList.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\SubList.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\list\arraylist\UniqueElement.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\Main.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\map\hashmap\linkedhashmap\GetOnDefoult.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\map\hashmap\linkedhashmap\KeySet.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\map\hashmap\linkedhashmap\PutContainsKey.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\map\hashmap\linkedhashmap\PutIfAbsent.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\Resizearray.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\set\hashset\Firewall.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\set\hashset\Isogram.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\set\hashset\Jackpot.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\set\hashset\Pangram.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\set\hashset\SetIterator.java">
+</file>
+<file name="C:\projects\Java-1000\src\main\java\src\set\hashset\UniqueName.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\ConsumerAndThenTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\FunctionFormulaTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\FunctionPowTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\FunctionSqrtTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\MRPredicateTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\MRSupplierTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\OptionalGetAndIsPresentTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\OptionalIfPresentTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\lambda\urma\MRFunctionTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\AddAllElementsListTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\AddElementTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\AddIndexElementTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\AlphabetTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\ArProgressionTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\CheckerAhdGetterTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\CreatorNewListTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\FactoryTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\GeomProgressionTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\IteratorForListTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\ListIteratorUsageTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\RemoveIfTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\RepositionElementTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\SplitterListTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\SubListTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\list\arraylist\UniqueElementTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\map\hashmap\linkedhashmap\PutIfAbsentTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\set\hashset\FirewallTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\set\hashset\PangramTest.java">
+</file>
+<file name="C:\projects\Java-1000\src\test\java\src\set\hashset\UniqueNameTest.java">
+</file>
+</checkstyle>
