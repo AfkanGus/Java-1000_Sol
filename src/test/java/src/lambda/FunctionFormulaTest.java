@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * 2.3. Function. Рассчитать значение по формуле
+ */
 public class FunctionFormulaTest {
     @Test
     public void test() {
