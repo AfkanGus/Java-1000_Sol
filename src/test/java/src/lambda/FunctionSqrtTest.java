@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * 2.2. Function. Получить корень квадратный из числа
+ */
 public class FunctionSqrtTest {
     @Test
     public void test() {
