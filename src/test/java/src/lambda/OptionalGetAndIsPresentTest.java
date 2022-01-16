@@ -4,6 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * 5.2. Optional. Методы isPresent(), isEmpty(), get()
+ */
 public class OptionalGetAndIsPresentTest {
     @Test
     public void whenExist() {

@@ -2,6 +2,9 @@ package src.lambda;
 
 import java.util.Optional;
 
+/**
+ * 5.2. Optional. Методы isPresent(), isEmpty(), get()
+ */
 public class OptionalGetAndIsPresent {
     public static int get(int[] data, int el) {
         Optional index = OptionalGetAndIsPresent.indexOf(data, el);
