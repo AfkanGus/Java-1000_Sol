@@ -6,6 +6,10 @@ import org.junit.Test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
+/**
+ * 3.1. Consumer. Вывод строки. Метод andThen()
+ */
 public class ConsumerAndThenTest {
     @Test
     public void test() {
