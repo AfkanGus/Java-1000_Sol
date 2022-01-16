@@ -7,7 +7,11 @@ import java.util.function.Function;
  * Ниже приведен код. Вам нужно дописать лямбда выражение,
  * которое возводит переданное число в квадрат (для 2 = 4, для 3 = 9 и тд)
  */
+
 public class FunctionPow {
+    /*
+    метод
+     */
     public static double calculate(double x) {
         return calculate(s -> s * x, x);
     }

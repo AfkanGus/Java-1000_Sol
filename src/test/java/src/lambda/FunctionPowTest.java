@@ -3,7 +3,9 @@ package src.lambda;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-
+/*
+2.1. Fuction. Возвести число в квадрат
+ */
 public class FunctionPowTest {
     @Test
     public void test() {
