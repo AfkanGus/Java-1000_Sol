@@ -2,6 +2,9 @@ package src.lambda;
 
 import java.util.Optional;
 
+/**
+ * 5.3. Optional. Метод ifPresent()
+ */
 public class OptionalIfPresent {
     public static void ifPresent(int[] data) {
         max(data).ifPresent(s -> System.out.println("Max: " + s));

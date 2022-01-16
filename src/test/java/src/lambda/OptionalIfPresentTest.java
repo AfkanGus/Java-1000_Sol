@@ -7,6 +7,9 @@ import java.io.PrintStream;
 
 import static org.junit.Assert.assertEquals;
 
+/**
+ * 5.3. Optional. Метод ifPresent()
+ */
 public class OptionalIfPresentTest {
     @Test
     public void whenExist() {
