@@ -1,5 +1,8 @@
+C:\projects\Java-1000\src\test\java\src\lambda\MRFunctionTest.java
 C:\projects\Java-1000\src\test\java\src\lambda\ConsumerAndThenTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\PredicateCheckEvenAndPositiveTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\SplitterListTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\PredicateCheckEvenTest.java
 C:\projects\Java-1000\src\test\java\src\lambda\urma\MRFunctionTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\IteratorForListTest.java
 C:\projects\Java-1000\src\test\java\src\lambda\FunctionFormulaTest.java
@@ -9,7 +12,10 @@ C:\projects\Java-1000\src\test\java\src\list\arraylist\AddIndexElementTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\CheckerAhdGetterTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\RemoveIfTest.java
 C:\projects\Java-1000\src\test\java\src\map\hashmap\linkedhashmap\PutIfAbsentTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\PredicateCheckPositiveTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\FactoryTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\OptionalElseThrowTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\OptionalOrElseTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\RepositionElementTest.java
 C:\projects\Java-1000\src\test\java\src\lambda\FunctionSqrtTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\CreatorNewListTest.java
@@ -21,9 +27,12 @@ C:\projects\Java-1000\src\test\java\src\list\arraylist\GeomProgressionTest.java
 C:\projects\Java-1000\src\test\java\src\set\hashset\PangramTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\AddAllElementsListTest.java
 C:\projects\Java-1000\src\test\java\src\set\hashset\FirewallTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\OptionalOfNullableTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\MethodReferenceTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\AlphabetTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\UniqueElementTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\AddElementTest.java
 C:\projects\Java-1000\src\test\java\src\lambda\MRSupplierTest.java
+C:\projects\Java-1000\src\test\java\src\lambda\OptionalOfAndEmptyTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\SubListTest.java
 C:\projects\Java-1000\src\test\java\src\list\arraylist\ListIteratorUsageTest.java
