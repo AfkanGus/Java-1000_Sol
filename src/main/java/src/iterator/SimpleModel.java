@@ -1,6 +1,6 @@
 package src.iterator;
-// утверждения с исключениями.
 
+// утверждения с исключениями.
 public class SimpleModel {
     private String name = "";
 
